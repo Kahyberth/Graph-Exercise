@@ -7,12 +7,6 @@ from networkx.algorithms import bipartite
 from tkinter import Tk,Button,filedialog
 
 class punto2:
-    '''
-        ▁▂▃▅▇INTEGRANTES▇▆▅▃▂
-        Kahyberth Stiven Gonzalez Sayas: 2060121
-        Daniel Stiven Ramirez: 2067524
-        Maria Camila Muñoz: 2067738
-    '''
 
     #Variables Globables
     file = np.loadtxt
