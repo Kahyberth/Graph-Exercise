@@ -3,11 +3,6 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 '''
-▁▂▃▅▇INTEGRANTES▇▆▅▃▂
-Kahyberth Stiven Gonzalez Sayas: 2060121
-Daniel Stiven Ramirez: 2067524
-Maria Camila Muñoz: 2067738
-
  ▁▂▃▅▇Variables▇▆▅▃▂
 grafo = representa el grafo creado con la libreria networkx
 vertices = representa los vertices 
